@@ -4,11 +4,9 @@
 
 - Know about my experiences **[https://drive.google.com/file/d/1OEWv9BSmGKnIxrOwFtTKnzV5GqPCvFwe/view?usp=drive_link](https://drive.google.com/file/d/1OEWv9BSmGKnIxrOwFtTKnzV5GqPCvFwe/view?usp=drive_link)**
 
-- You can reach me @ **siaethan83@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/jdsia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jdsia" height="30" width="40" /></a>
+  - You can reach me @ **siaethan83@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
