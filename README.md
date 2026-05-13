@@ -2,7 +2,7 @@
 
 - All of my projects are available at **[https://jdsia.vercel.app/](https://jdsia.vercel.app/)**
 
-- Know about my experiences **[https://drive.google.com/file/d/1OEWv9BSmGKnIxrOwFtTKnzV5GqPCvFwe/view?usp=drive_link](https://drive.google.com/file/d/1OEWv9BSmGKnIxrOwFtTKnzV5GqPCvFwe/view?usp=drive_link)**
+- Know about my experience: **[Resume](https://drive.google.com/file/d/1OEWv9BSmGKnIxrOwFtTKnzV5GqPCvFwe/view?usp=drive_link)**
 
 - You can connect with me at **siaethan83@gmail.com**
 
