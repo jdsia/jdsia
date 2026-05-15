@@ -1,4 +1,4 @@
-# Hullo 👋, I'm Ethan
+# hi
 
 - All of my projects are available at **[https://jdsia.vercel.app/](https://jdsia.vercel.app/)**
 
